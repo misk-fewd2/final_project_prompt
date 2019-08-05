@@ -70,7 +70,7 @@ Your instructional team will provide feedback on how well you execute best pract
 
 ## Hosting
 
-You can host your final project on the web for free using GitHub pages. Watch [this video](https://generalassembly.wistia.com/medias/jn23v1hc93) and see [this](Getting_Started_with_GitHub_Pages.pdf) guide for more information on how to host your site on GitHub pages. If you run into any problems with GitHub pages, your instructor and TA(s) should be able to help you troubleshoot.
+You can host your final project on the web for free using GitHub pages. See [this](https://pages.github.com/) guide for more information on how to host your site on GitHub pages. If you run into any problems with GitHub pages, your instructor and TA(s) should be able to help you troubleshoot.
 
 ### Resources
 
