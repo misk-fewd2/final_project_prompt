@@ -36,10 +36,10 @@ We recommend you take a look at the [GA Gallery](http:/gallery.ga.co) for exampl
 ### Technical Requirements
 
 - Demonstrate that you have taken the appropriate steps to plan and build your website by submitting all milestones by their due dates:
-  - Project Proposal / Wireframes
-  - Draft of HTML / CSS (no JS)
-  - First draft of JS
-  - Updated Rough Draft
+  - Project Proposal / Wireframes **DUE WEDNESDAY, AUGUST 21**
+  - Draft of HTML / CSS (no JS) **DUE MONDAY, AUGUST 26**
+  - First draft of JS **DUE MONDAY, SEPTEMBER 2**
+  - Updated Rough Draft **DUE MONDAY, SEPTEMBER 9**
 
 - Use HTML to correctly structure the DOM:
   - Use HTML5 structural elements (header, footer, nav, footer)
