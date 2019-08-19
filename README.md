@@ -74,6 +74,7 @@ Your instructional team will provide feedback on how well you execute best pract
 - [Adobe XD](https://www.adobe.com/mena_en/products/xd.html)
 - [Wireframe.cc](https://wireframe.cc/)
 - [Draw.io](https://www.draw.io/)
+- [Balsamiq](https://balsamiq.com/)
 
 ---
 
